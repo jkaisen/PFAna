@@ -1,0 +1,3 @@
+cmsRun STAR19_61_V5A_Lumi500_UPG2019_09Jul2013-v1.analyzer.py
+cmsRun STAR19_61_V6A_Lumi300_UPG2019_09Jul2013-v1.analyzer.py
+cmsRun DES19_61_V5_PFlow_hcal19_09Jul2013-v1.py
